@@ -64,3 +64,9 @@ This project can be extended to get the real time trending topics across the wor
   * Jayashree C S
 
 ## Reference
+* https://www.infoq.com/articles/apache-kafka 
+* https://www.infoq.com/articles/apache-spark-streaming 
+* https://www.vultr.com/docs/how-to-install-apache-kafka-on-centos-7 
+* http://www.cloudera.com/documentation/enterprise/5-5-x/topics/spark_ipython.html 
+* http://searchcrm.techtarget.com/definition/real-time-analytics 
+* https://www.techopedia.com/2/31433/trends/big-data/advantages-of-real-time-analyticsfor-enterprise 
